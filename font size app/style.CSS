@@ -1,0 +1,56 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+
+.note
+{
+    font-size: 15px;
+    color:black;
+}
+
+
+.copy_right_footer{
+position: fixed;
+color: white;
+bottom:0;
+width: 100%;
+background-color:grey;
+line-height: 2;
+text-align: center;
+font-size:20px ;
+}
+
+
+
+canvas{
+    border:5px solid rgb(16, 0, 0);
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(243, 151, 151);
+    border-style:double ;
+  background-color: whitesmoked;
+  margin-top: 100px;
+}
+
+
+body
+{
+    background-position: center;
+     background-size: cover;
+}
+
+
+
+#title{
+    font-size: 50px;
+    color: black;
+    text-shadow:3px 3px  pink ;
+    background-color: rgb(172, 170, 170);
+    font-family: "Italianno", cursive;
+    border-radius: 20px;
+    width: fit-content;
+}
